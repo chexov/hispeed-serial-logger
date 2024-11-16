@@ -1,9 +1,10 @@
 
 # Serial Logger
 
+```
 // disable bluetooth service
 sudo systemctl disable hciuart
-
+```
 #
 
 /boot/config.txt:
